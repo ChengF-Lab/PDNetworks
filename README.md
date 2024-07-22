@@ -1,5 +1,3 @@
-# PDNetworks
-
 # A network-based systems genetics framework identifies pathobiology and drug repurposing in Parkinson’s disease
 
 ## Requirements
